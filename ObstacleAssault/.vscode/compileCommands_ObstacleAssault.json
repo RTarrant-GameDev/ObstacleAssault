@@ -1,0 +1,42 @@
+[
+	{
+		"file": "W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "G:\\Epic Games\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "G:\\Epic Games\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "G:\\Epic Games\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "G:\\Epic Games\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@W:\\Game Dev\\Unreal Engine\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "G:\\Epic Games\\Games\\UE_5.3\\Engine\\Source"
+	}
+]
